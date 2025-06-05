@@ -26,7 +26,7 @@ A dynamic Todo list built with React that allows users to view, filter, and expl
 
 ## 📦 Getting Started
 
-`git clone https://github.com/your-username/react-dynamic-todos.git
-cd react-dynamic-todos
-npm install
-npm run dev`
+`git clone https://github.com/your-username/react-dynamic-todos.git`
+`cd react-dynamic-todos`
+`npm install`
+`npm run dev`
