@@ -23,3 +23,9 @@ A dynamic Todo list built with React that allows users to view, filter, and expl
 
 ## 🌐 Live Demo
 [DEMO LINK](https://MariiaKapustkina.github.io/list_of_todos/)
+
+## 📦 Getting Started
+git clone https://github.com/your-username/react-dynamic-todos.git
+cd react-dynamic-todos
+npm install
+npm run dev
